@@ -1,7 +1,7 @@
 # Evalute a mode for predicting loans that are about to default
 
 ## Confusion matrix
-![confusion matrix](/img/confusion_matrix.jpeg)
+![confusion matrix](https://ycc.idv.tw/media/mechine_learning_measure/mechine_learning_measure.001.jpeg)
 - True Positive (TP): 預測為Positive，實際也為Positive
 - True Negative (TN): 預測為Negative，實際也為Negative
 - False Positive (FP): 預測為Positive，實際為Negative
@@ -26,7 +26,7 @@
 - Sensitivity和Specificity的值都是越高越好
 - Sensitivity和Specificity的分布情況可以畫成ROC Curve，而ROC Curve底下的面積稱為AUC，AUC越大越好。
 
-![ROC Curve](/img/ROC_Curve.jpeg)
+![ROC Curve](https://ycc.idv.tw/media/mechine_learning_measure/mechine_learning_measure.006.jpeg)
  * 圖片及文字參考自[YC Note](https://ycc.idv.tw/confusion-matrix.html#anchor)
   
 ## Log Likelihood
